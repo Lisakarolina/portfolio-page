@@ -28,11 +28,218 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+header,
+footer {
+  background-image: url("./img/more_marble.jpg");
+  display: flex;
+  gap: 40px;
+  height: 500px;
+  overflow: auto;
+}
+
+#portrait {
+  padding: 10px;
+  background-color: white;
+  margin: 50px 50px 50px 50px;
+}
+
+#intro-title {
+  padding: 20px;
+  margin-right: 30%;
+  font-size: 70px;
+}
+
+#descr {
+  padding: 20px;
+  margin-right: 30%;
+  font-size: 40px;
+}
+
+.intro-text {
+  padding: 20px;
+  margin-right: 30%;
+}
+
+#intro {
+  margin-top: 70px;
+}
+
+#intro img {
+  height: 30px;
+  width: 30px;
+}
+
+.card {
+  border: 1px solid black;
+  max-width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#contentWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.skill-card {
+  border: 1px black;
+  max-width: 80px;
+}
+
+.skill-card img,
+.flag {
+  width: 100%;
+}
+
+.flag {
+  font-size: 80px;
+}
+
+.card img,
+.skill-card img {
+  width: 100%;
+}
+
+#work-panel {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 50px;
+  margin: 60px;
+}
+
+#skill-panel,
+#lang-panel {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 50px;
+  margin: 60px;
+}
+
+#work-title,
+#skill-title,
+#nat-lang {
+  margin-top: 100px;
+  margin-left: 60px;
+}
+
+.sub-skill-title,
+#badge {
+  margin-left: 60px;
+  margin-top: 20px;
+}
+
+#content-field {
+  padding: 0px 10px 10px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: auto;
+}
+
+#link-line {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 15px;
+}
+
+#git-line img:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+#git-line {
+  margin-top: 50px;
+}
+
+.icon {
+  margin: 5px;
+  cursor: pointer;
+}
+
+.icon:hover {
+  background-color: black;
+  color: white;
+}
+
+body {
+  font-family: "Playfair Display";
+}
+
+#skills #badge {
+  display: inline-block;
+  height: 30px;
+  border-radius: 5%;
+  background-color: cornflowerblue;
+  color: white;
+  border-color: cornflowerblue;
+  padding: 0 10px 0 10px;
+}
+
+.topnav {
+  background-color: black;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+}
+
+.topnav a {
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.topnav a:hover {
+  transform: scale(1.1);
+}
+
+#about img {
+  height: 50px;
+}
+
+#about {
+  padding: 50px 20% 50px 20%;
+}
+
+#about-descr {
+  font-size: 25px;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav {
+    flex-direction: column;
+    height: 100px;
   }
-  to {
-    transform: rotate(360deg);
+
+  header {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    height: 600px;
+  }
+
+  #intro-title {
+    font-size: 30px;
+    padding: 10px;
+  }
+
+  #descr {
+    font-size: 20px;
+  }
+
+  #portrait {
+    padding: 10px;
+    background-color: white;
+    margin: 10px 10px 10px 10px;
+  }
+
+  #intro {
+    margin-top: 10px;
   }
 }
