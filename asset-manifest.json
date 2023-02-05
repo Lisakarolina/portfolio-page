@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-page/static/css/main.39585e77.css",
+    "main.js": "/portfolio-page/static/js/main.aaf3528a.js",
+    "static/js/787.28a6522c.chunk.js": "/portfolio-page/static/js/787.28a6522c.chunk.js",
+    "static/media/more_marble.jpg": "/portfolio-page/static/media/more_marble.3d411bdfc6f40f30696f.jpg",
+    "static/media/bridges.png": "/portfolio-page/static/media/bridges.389ffb543725cc30b6f0.png",
+    "static/media/flamingo_1.png": "/portfolio-page/static/media/flamingo_1.3ed8ac5ce700ce5a43d2.png",
+    "static/media/cypress-logo.png": "/portfolio-page/static/media/cypress-logo.54ea99e1ac80941e942c.png",
+    "static/media/plants_crud.png": "/portfolio-page/static/media/plants_crud.0cb58e13543a348c0bd1.png",
+    "static/media/derdiedas.png": "/portfolio-page/static/media/derdiedas.9995b8b0221374f2208f.png",
+    "static/media/portrait.jpg": "/portfolio-page/static/media/portrait.10bfa8b0004154b4d4e0.jpg",
+    "index.html": "/portfolio-page/index.html",
+    "main.39585e77.css.map": "/portfolio-page/static/css/main.39585e77.css.map",
+    "main.aaf3528a.js.map": "/portfolio-page/static/js/main.aaf3528a.js.map",
+    "787.28a6522c.chunk.js.map": "/portfolio-page/static/js/787.28a6522c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39585e77.css",
+    "static/js/main.aaf3528a.js"
+  ]
+}
