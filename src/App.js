@@ -148,12 +148,14 @@ function App() {
         <div id="about">
           <h1 id="about-title">About me</h1>
           <div id="about-descr">
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-            quae ab illo inventore veritatis et quasi architecto beatae vitae
-            dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-            aspernatur aut odit aut fugit, sed quia consequuntur magni dolores
-            eos qui ratione voluptatem sequi nesciunt.
+            After having studied Philosophy and the Classics I got interested in
+            Computer Science and went back to university to get a Computer
+            Science degree. I like about programming that is a challenging
+            activity, that never gets boring but also has a creative side to it.
+            I mainly use Javascript at the moment but am open to learning new
+            languages. I'm a curious person interested in a range of different
+            things: be it tech, history, literature or cooking. I love cats and
+            would like to live on an island some day.
           </div>
           <div id="git-line">
             <img
