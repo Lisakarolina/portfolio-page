@@ -1,5 +1,5 @@
 import "./App.css";
-import portrait from "./img/portrait.jpg";
+import portrait from "./img/portrait_cv.jpeg";
 import memoryGameImg from "./img/memoryGameImg.png";
 import flamingo from "./img/flamingo_1.png";
 import derdiedas from "./img/derdiedas.png";
