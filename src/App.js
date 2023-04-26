@@ -123,6 +123,12 @@ function App() {
             }
             title="MySQL"
           ></SkillCard>
+          <SkillCard
+            img={
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            }
+            title="React"
+          ></SkillCard>
         </div>
         <h1 id="nat-lang">Natural Languages</h1>
         <div id="lang-panel">
