@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio-page/static/css/main.007d6976.css",
-    "main.js": "/portfolio-page/static/js/main.0ef98a21.js",
+    "main.js": "/portfolio-page/static/js/main.da0a0377.js",
     "static/js/787.28a6522c.chunk.js": "/portfolio-page/static/js/787.28a6522c.chunk.js",
     "static/media/more_marble.jpg": "/portfolio-page/static/media/more_marble.3d411bdfc6f40f30696f.jpg",
     "static/media/bridges.png": "/portfolio-page/static/media/bridges.389ffb543725cc30b6f0.png",
     "static/media/flamingo_1.png": "/portfolio-page/static/media/flamingo_1.3ed8ac5ce700ce5a43d2.png",
     "static/media/portrait_cv.jpeg": "/portfolio-page/static/media/portrait_cv.eeabb99631e436edcf3e.jpeg",
+    "static/media/zoo.png": "/portfolio-page/static/media/zoo.8acb5e0d60b5e8df790d.png",
     "static/media/cypress-logo.png": "/portfolio-page/static/media/cypress-logo.54ea99e1ac80941e942c.png",
     "static/media/plants_crud.png": "/portfolio-page/static/media/plants_crud.0cb58e13543a348c0bd1.png",
     "static/media/derdiedas.png": "/portfolio-page/static/media/derdiedas.9995b8b0221374f2208f.png",
     "index.html": "/portfolio-page/index.html",
     "main.007d6976.css.map": "/portfolio-page/static/css/main.007d6976.css.map",
-    "main.0ef98a21.js.map": "/portfolio-page/static/js/main.0ef98a21.js.map",
+    "main.da0a0377.js.map": "/portfolio-page/static/js/main.da0a0377.js.map",
     "787.28a6522c.chunk.js.map": "/portfolio-page/static/js/787.28a6522c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.007d6976.css",
-    "static/js/main.0ef98a21.js"
+    "static/js/main.da0a0377.js"
   ]
 }
