@@ -8,6 +8,7 @@ import cypresslogo from "./img/cypress-logo.png";
 import inventoryImg from "./img/plants_crud.png";
 import ProjectCard from "./projectCard";
 import SkillCard from "./skillCard";
+import zoo from "./img/zoo.png";
 
 function App() {
   return (
@@ -25,13 +26,20 @@ function App() {
         <div id="intro">
           <h1 id="intro-title">Hi there!</h1>
           <div className="intro-text" id="descr">
-            I'm an aspiring software developer looking for work
+            I'm an aspiring software developer, avid reader and overall curious person
           </div>
         </div>
       </header>
       <div id="work">
         <h1 id="work-title">Projects</h1>
         <div id="work-panel">
+        <ProjectCard
+            img={zoo}
+            title="Zoo"
+            description="Fullstack CRUD app with React for the frontend, Django for the backend and Postgres as database"
+            gitURL="https://github.com/Lisakarolina/fancy-zoo"
+            liveURL="https://zoo.nurfuertest.store"
+          ></ProjectCard>
           <ProjectCard
             img={flamingo}
             title="Simple Web Shop"
